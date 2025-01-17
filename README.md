@@ -3,12 +3,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Raghav Sharma`
+- **CCID:** `raghav4`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://www.geeksforgeeks.org/event-handling-in-java/
+- https://developer.android.com/studio/write/layout-editor
+- https://stackoverflow.com/questions/31625962/what-is-the-purpose-of-a-listener-in-java
 
 ## Verbal Collaboration
 

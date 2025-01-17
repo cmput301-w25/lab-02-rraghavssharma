@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 2</string>
+    <string name="enter_city">Enter city</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_city">Delete City</string>
+    <string name="add_city">Add City</string>
+</resources>
